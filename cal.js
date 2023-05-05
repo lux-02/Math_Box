@@ -11,3 +11,8 @@ const sub = (a, b) => { //뻬기
 const mul = (a, b) => { //곱하기
     return a * b;
 }
+
+const div = (a, b) => { //나누기
+    return a / b;
+}
+
