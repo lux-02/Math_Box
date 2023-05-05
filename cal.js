@@ -1,10 +1,13 @@
 // Basic Calculator
 
-const add = (a, b) => {
+const add = (a, b) => { //더하기
     return a + b;
 }
 
-const sub = (a, b) => {
+const sub = (a, b) => { //뻬기
     return a - b;
 }
 
+const mul = (a, b) => { //곱하기
+    return a * b;
+}
